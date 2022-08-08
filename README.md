@@ -6,5 +6,7 @@
 <br> 
 <br> 
 This is the song that I am listening to right now or that I was listening to :
+
 ![image](https://bandwidth.gaybird.ml/wa.png?)
+
 <br> <a href="https://last.fm/Luttyz">(data grabbed from my Last.fm)</a>
